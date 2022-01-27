@@ -8,15 +8,22 @@ h1{
     color: blue;
     font-size: 20px;
     /*margin*/
-    margin-left: 10px;
+   /*margin-left: 10px;
     margin-top: 50 px;
-    margin-right: 70px;
-    
+    margin-right: 70px;*/
+     
+    /*easy way*/
+   margin: 200px 300px 178px 140px ; 
+
+
     /*padding*/
-    padding-top: 100px ;
+   /* padding-top: 100px ;
     padding-left: 50px ;
     padding-right: 180px;
     padding-bottom: 259px;
+    */
+
+    padding: 130px 152px 170px 178px;
 }
 
 /*
