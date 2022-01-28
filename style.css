@@ -24,6 +24,13 @@ h1{
     */
 
     padding: 130px 152px 170px 178px;
+    font-size: 18px;
+    font-weight: 800;
+    font-family: 'Tahoma';
+    line-height: 40px;
+    word-spacing: 10px;
+    width: 1000px;
+    height: 1000px;
 }
 
 /*
